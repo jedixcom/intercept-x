@@ -37,4 +37,4 @@ sounddevice==0.4.6
 tornado==6.1
 tzdata==2024.1
 tzlocal==5.2
-urllib3==2.2.1
+urllib3==2.2.2
